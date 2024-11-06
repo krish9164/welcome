@@ -1,4 +1,4 @@
-# welcome
+# About me
 Developer | Data Enthusiast | Trader📊
 <br>
 
