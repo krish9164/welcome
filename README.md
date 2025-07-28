@@ -1,8 +1,8 @@
 # About me
-Developer | Data Enthusiast | Trader📊
+Software Developer | AI/ML Enthusiast
 <br>
 
-👀 Interests: Solving complex problems with data, creating impactful machine learning models, and leveraging AI to drive innovation.
+👀 Interests: Build scalable solutions for complex problems, creating impactful machine learning models, and leveraging AI to drive innovation.
 <br>
 🌱 Currently Learning: Exploring how AI and data science can be applied strategically to enhance business growth, optimize decision-making, and deliver real-world solutions.
 <br>
